@@ -3,7 +3,7 @@ WHO Global Covid-19 cases From 3rd Jan 2020 to 7th Jan 2022
 
 A transformed version of the Dataset has been uploaded in CSV format.
 
-Visualization link: <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/8344576"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Visualization link: https://public.flourish.studio/visualisation/8344576/
 
 Dataset description:
 Daily cases and deaths by date reported to WHO
